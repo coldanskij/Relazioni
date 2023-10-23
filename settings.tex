@@ -1,0 +1,33 @@
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry} 
+\usepackage{amsmath}
+\usepackage{tcolorbox}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.17} 
+\usepackage{tikz}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage{accents}
+\usepackage{ebgaramond}
+\usepackage{physics}
+\usepackage[colorlinks]{hyperref}
+\newcommand{\D}{\mathcal{D}}
+\newcommand{\R}{\mathbb{R}}
+\pagestyle{fancy}
+\setlength{\headheight}{40pt}
+
+\newenvironment{example}
+  {\renewcommand\qedsymbol{$\blacksquare$}
+  \begin{proof}[Example]}
+  {\end{proof}}
+\renewcommand\qedsymbol{$\blacksquare$}
+
+\newenvironment{Solution}
+  {\renewcommand\qedsymbol{$\blacksquare$}
+  \begin{proof}[Solution]}
+  {\end{proof}}
+\renewcommand\qedsymbol{$\blacksquare$}
+
+\newcommand{\ubar}[1]{\underaccent{\bar}{#1}}

@@ -1,0 +1,88 @@
+\section{Elements of theory}%
+\label{sec:theory}
+
+\subsection{Continuum theory}%
+\label{subsec:continuum}
+In a $4D$ pure $SU(N)$ gauge theory, the fundamental gauge fields $A_{\mu} = A_{\mu}^{a}T^{a}$ evolves via Yang-Mills gradient flow, obeying the equation
+\begin{align}
+  \label{eqn:flowcont}
+  \partial_{t}B_{\mu}=D_{\nu}G_{\nu\mu}+\alpha_{0}D_{\mu}\partial_{\nu}B_{\nu}
+\end{align}
+where $G_{\mu\nu}= \partial_{[\mu}B_{\nu]}-i\commutator{B_{\mu}}{B_{\nu}}$ is the field strength tensor, $D_{\mu} = \partial_{\mu} - i\comm*{B_{\mu}}{\cdot}$ is the covariant derivative, $B_{\mu}\equiv A_{\mu}\eval_{t=0}$ and $\alpha_{0}$ is
+a gauge fixing parameter.
+This allows for the definition of the topological charge density at flow time $t$
+\begin{align}
+  q^{t}\equiv \frac{1}{32\pi ^2}\varepsilon_{\mu\nu\rho\sigma}\Tr\qty[G_{\mu\nu}G_{\rho\sigma}]
+\end{align}
+whose integral is the topological charge
+\begin{align}
+  Q^{t} = \int \dd[4]{x}q^{t}(x).
+\end{align}
+For a fixed gauge field configuration, the purely topological nature of $Q^{t}$ is proven by the relation
+\begin{align}
+  \label{eqn:partQ}
+  \partial_{t}Q^{t}=0.
+\end{align}
+It can also be shown that, given a finite local operator $O(y)$ with $x \neq y$, the correlation function
+\begin{align}
+  \ev{q^{t=0}(x)O(y)} = \lim_{t\to 0}\ev{q^{t}(x)O(y)}
+\end{align}
+is finite and can therefore be used as a definition of $q^{0}(x)$ for the renormalized theory.
+
+The cumulants of $q^{t}$ are defined
+\begin{align}
+  C_{n}^{t}\equiv \int \dd[4]{x_{1}}\dd[4]{x_{2n-1}}\ev{q^{t}(x_{1})\dots q^{t}(x_{2n})}_{c}
+\end{align}
+and, because of equation \ref{eqn:partQ}, we can prove that they are independent of the flow time $t\ge 0$.
+In particular, we are going to focus on
+\begin{align}
+  \chi^{t} &\equiv C_{2}^{t} = \frac{1}{V}\int \dd[4]{x_{1}}\dd[4]{x_{2}}\ev{q^{t}(x_{1})q^{t}(_{2})}_{c} \notag\\
+  &=\frac{\ev{\left(Q^{t}\right)^{2}}}{V}
+\end{align}
+where $V$ is the four dimensional volume on which we consider the theory.
+It can also be shown that $\chi ^{t}$ is finite both when $t\to 0$ and when $x\to 0$.
+
+\subsection{Lattice theory}%
+\label{subsec:latticetheory}
+An analogous of the YM gradient flow equation \ref{eqn:flowcont} can be defined on the lattice
+\begin{align}
+  &\partial_t V_{\mu} = -g_{0}^2 \left(\partial_{x,\mu}S[V]\right)V_{\mu}(x), \notag\\ &V_{\mu}(x)\eval_{t=0}\equiv U_{\mu}(x)
+\end{align}
+where $S$ is the Wilson gauge action, $U_{\mu}$ are the gauge link operators and $\partial_{x,\mu}$ are the appropriate
+differential operators.
+On the lattice there are  different definitions of topological charge density, depending on the discretization choice. It is proven that the continuum limit of the topological charge defined from the Neuberger operator\footnote{$a^{4}q_{N} \equiv -\frac{a}{2(1+s)}\tr[\gamma_{5}D(x,x)]$, where $s\in(-1,1)$ and $D$ is the Neuberger operator, which satisfies the Ginsparg-Wilson relation that leads to the chiral anomaly.}, at positive flow time, obeys the proper singlet chiral Ward identities to be inserted in the Witten Veneziano relation.
+
+We started with a naive discretization of a lattice with spacing $a$. The charge density is defined
+\begin{align}
+  q ^{t}= \frac{1}{32\pi ^2}\varepsilon_{\mu\nu\rho\sigma}\Tr\qty[G_{\mu\nu}G_{\rho\sigma}](x)
+\end{align}
+where the field strength tensor $G_{\mu\nu}$ is defined in terms of the plaquette $Q_{\mu\nu}$
+\begin{align}
+  &G_{\mu\nu}(x)=- \frac{i}{4a ^2}T ^{a}\tr_{a}\qty[Q_{[\mu\nu]}(x)T ^{a}], \\
+  &Q_{\mu\nu}(x) = V_{\mu}(x)V_{\nu}(x+a\hat{\mu})V ^{\dagger}(x+a\hat{\nu})V_{\nu}^{\dagger}(x) + \notag\\
+  &V_{\nu}(x)V_{\mu}^{\dagger}(x-a\hat{\mu}+a\hat{\nu})V ^{\dagger}_{\nu}(x-a\hat{\mu})V_{\mu}(x-a\hat{\nu})+ \notag\\
+  &V ^{\dagger}_{\mu}(x-a\hat{\mu})V_{\nu}^{\dagger}(x-a\hat{\nu}-a\hat{\mu})V_{\mu}(x-a\hat\mu-a\hat\nu)\cp \notag\\
+ &\cp V_{\nu}(x-a\hat\nu) +\notag\\
+  &V_{\nu}^{\dagger}(x-a\hat\nu)V_{\mu}(x-a\hat\nu)V_{\nu}(x+a\hat\mu-a\hat\nu)V_{\mu}^{\dagger}(x);
+\end{align}
+thus the topological charge is
+\begin{align}
+  \label{eqn:naiveQ}
+  Q ^{t}\equiv a ^{4} \sum_{x}q ^{t}(x).
+\end{align}
+The topological charge density defined on a naively discretized lattice, when we consider
+evolved gauge fields, has a well defined finite continuum limit which coincides with the continuum limit of the definition that comes from Neuberger's approach. Its cumulants are
+\begin{align}
+  C_{n}^{t} = a ^{8n-4} \sum_{x_{1}\dots x_{2n-1}}\ev{q ^{t}(x_{1})\dots q ^{t}(x_{2n-1}) q ^{t}(0)}
+\end{align}
+and, since at positive flow time short-distance singularities cannot arise, the continuum limit\footnote{This is not generally true on the lattice.} equivalence also holds true for the cumulants.
+Particularly, the continuum limit of the topological susceptibility is
+\begin{align}
+  \chi ^{t}=a ^{4}\sum_{x}\ev{q ^{t}(x) q ^{t}(0)} = \frac{\ev{(Q ^{t})^{2}}}{V}
+\end{align}
+where $V$ is the volume of the lattice and $Q$ is computed like in equation \ref{eqn:naiveQ}, provides us with the right quantity to compute the $\eta'$ mass from the Witten-Veneziano relation.
+
+% ------------------------------------------
+%With Neuberger's
+%definition, the continuum limit of the cumulants at $t=0$ is universal, unambiguous and obeys the proper singlet chiral Ward identities when fermions are added to the theory. Therefore they are the right quantities to insert in the Witten Veneziano formula.
+%Moreover, in the continuum limit, Neuberger's definitions coincide with the cumulants at positive flow time which can thus equivalently be used in the Witten Veneziano formula.

@@ -1,0 +1,91 @@
+The core of this work is the  numerical simulation of a quantum
+harmonic oscillator on the lattice, with the purpose of recovering the analytical results both for the discretized theory and in the continuum.
+Namely, we will compute the observables
+\begin{align}
+  \label{eqn:phys1}
+  \DEt \equiv \Et{1}-\Et{0}=\wt\\
+  \matb = \frac{1}{2m\wb} \label{eqn:phys2}
+\end{align}
+and use them to extrapolate the equivalent quantities of the continuum theory sending $a\to 0$.
+
+In this limit, the lattice results differ from the continuum quantities by linear corrections in $a ^2$
+
+\begin{align}
+  &\DEt \approx \w - \frac{\w ^{3}}{24}a ^2 \label{eqn:fullen}\\
+  &\matb \approx \frac{1}{2m\w} - \frac{\w}{16m}a ^2 \label{eqn:fullmat}
+\end{align}
+so we need to choose a small enough lattice spacing to approximate the continuum limit, while keeping
+the product $Na$ sufficiently large that the ground state properties of the system can still be observed.
+If we define $T_{E}\equiv \nicefrac{2\pi}{E_{0}}$, a sensible choice according to \cite{Creutz1981ASA} is to consider $a\sim 0.1,0.2 \times T_{E}$ and $Na \sim 3,10 \times T_{E}$. In this work we kept $Na=64$ and we performed the same simulation on $5$ different lattices with progressively smaller spacing $a$, eventually obtaining the continuum ($a=0$) results after a linear fit on $a ^2$.
+
+These quantum properties can be extracted from the two points correlation function of the position operator:
+if we select two sites $l$ and $k$ on the lattice, such that $\t \equiv a\abs{l-k}$\footnote{Physical time $t$ will always appear in unit of $a$.},
+we can define
+\begin{align}
+\label{eqn:integral}
+\ct \equiv  \ev{x_{l}x_{k}} = \frac{1}{Z(T,a)}\int \prod_{i=0}^{N-1}\dd{x}_{i}x_{l}x_{k}e ^{-S}
+\end{align}
+as our primary observables, which we intend to evaluate with numerical integration methods.
+The integral is invariant under translation, therefore the correlator is independent of the
+particular sites $l$, $k$ and actually depends on their distance $\lk = \nicefrac{\t}{a}$.
+
+We can rewrite the correlator with the operator formalism
+\begin{align}
+  \ct = \frac{1}{\Tr[\T{N}]}\Tr[\T{N-\lk}\x\T{\lk}\x];
+\end{align}
+and, after inserting two complete sets of $\T{}$ eigenstates, the dominant contribution
+in the large $\lk$ and $N$ limit is found to be
+\begin{align}
+  \label{eqn:correlators}
+  \ct \approx& 2\matb \exp\qty(-\frac{N}{2}a\DEt)\times\notag\\&\times\cosh\qty[\qty(\frac{N}{2}-|l-k|)a\DEt].
+\end{align}
+This expression is even with respect to $|l-k| = \nicefrac{N}{2}$, so we can limit our analysis to the correlators whose distance  $|l-k|$ is at most $\nicefrac{N}{2}$.\\
+To find the energy gap without having to fit the data using equation \ref{eqn:correlators} as the model, we consider a combination
+of correlators at different physical times and invert it to find the analytic expression
+\begin{align}
+  &\DEt = \frac{1}{a}\arccosh\qty[\frac{\ctp + \ctm}{2\ct}] \label{eqn:energy}
+\end{align}
+which can be plugged back into equation \ref{eqn:correlators} to find the matrix element
+\begin{align}
+  &\matb = \frac{\ct\exp(\frac{N}{2}a\DEt)}{2\cosh\qty[\qty(\frac{N}{2}-|l-k|)a\DEt]}\label{eqn:matelem}.
+\end{align}
+
+Moreover, we can also prove that the noise to signal ratio of the correlator
+grows exponentially with $\t$  and therefore only small values of $\t$ are going to be useful for
+our analysis. This was highlighted by Giorgio Parisi in $1983$ and was given the name of \textit{exponential problem}.
+
+Assuming the observables $\ct$ are averaged over $N_{config}$ configurations, the variance is
+\begin{align}
+  \label{eqn:err1}
+  \sigma ^2\qty[\ct]= \frac{1}{N_{config}}\qty[\ev{x_{l}^2x_{k}^2}-\ev{x_{l}x_{k}}^2],
+\end{align}
+where $\ev{x_{l}x_{k}}$ is precisely $\ct$, while $\ev{x_{l}^2x_{k}^2}$ is the two points correlation function of the
+$\x ^2$ operator. \\Like we did for the correlator of $\hat{x}$, we can write $\ev{x_{l}^{2}x_{k}^{2}}$ using
+the operator formalism and, following the same steps, recover its dominant contribution for large $N$
+\begin{align}
+  \ev{x_{l}^{2}x_{k}^{2}} = &\frac{1}{\Tr[\T{N}]}\Tr[\T{N-\lk}\x^{2}\T{\lk}\x^{2}] \notag\\
+  &\approx \abs{\mel{\Et{0}}{\x ^2}{\Et{0}}}^2\label{eqn:xlxkq}.
+\end{align}
+Before we continue discussing the exponential problem, it is worth noting that for large values of $N$, as the distance $|l-k|$ grows, the variance (equation \ref{eqn:err1})
+will be dominated by the constant value of $\ev{x_{l}^{2}x_{k}^{2}}$\footnote{Equation \ref{eqn:correlators} shows that $\ct$ is suppressed exponentially with $N$ when $|l-k|$ is large enough.}
+\begin{align}
+  \label{eqn:varmatrix}
+  \sigma^{2}[\ct]\approx \frac{ \abs{\mel{\Et{0}}{\x ^2}{\Et{0}}}^2}{N_{config}},
+\end{align}
+meaning that it would be possible to use the variance of our numerical computation to extract the ground state expectation value of $\x^{2}$.\\
+On the other hand, if we focus on the region where $N$ and $\lk$ are large but $\lk \ll \nicefrac{N}{2}$, equation \ref{eqn:correlators} implies that the correlators decrease very rapidly with $\lk$
+\footnote{$\cosh\qty(x)\sim \nicefrac{e^{x}}{2}$ as $x\to\infty$.}
+\begin{align}
+  \label{eqn:errct}
+  \ct \approx \matb e ^{-a\lk \DEt}.
+\end{align}
+The noise to signal ratio, \textit{i.e.} the relative error, therefore grows exponentially with the distance of the sources
+\begin{align}
+  \label{eqn:relerr}
+ \frac{\sigma ^2\qty[\ct]}{\ct ^2}\approx \frac{1}{N_{config}}\frac{\abs{\mel{\Et{0}}{\x ^2}{\Et{0}}}^2}{\abs{\mel{\Et{0}}{\x}{\Et{1}}}^4}e ^{2a\lk\DEt}.
+\end{align}
+
+This behaviour greatly limits the number of correlators we can actually use to calculate the energy gaps and matrix elements (equations \ref{eqn:energy} and \ref{eqn:matelem}) for a given number of configurations, as the value of the observables is eventually going to be dominated by their error.
+A possible solution would be to exponentially increase the number of configurations, which would heavily worsen the computational cost.
+
+More generally, the origin of this problem in QFTs is to be found in the quantization of the energy spectrum which leads to the presence of a mass gap in the theory.

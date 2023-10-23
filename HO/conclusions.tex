@@ -1,0 +1,10 @@
+\section{Conclusions}%
+\label{sec:conclusions}
+In our study, we conducted an analysis of the thermalization and autocorrelation properties of the Metropolis Monte Carlo algorithm. We investigated how these properties are influenced by the algorithm parameter $\Delta$.
+
+We found that the thermalization process is faster when starting from a cold Feynman path, which means initializing the algorithm with a configuration that has lower energy. We kept $\Delta =1$ as it provided a sweet spot for thermalization speed and autocorrelation time.
+
+To reduce the correlation between consecutive Feynman paths, we averaged the correlation functions over $10,100 \tau$ sweeps, where $\tau$ represents the autocorrelation parameter. This averaging suppresses the influence of previous paths on the current path and ensures correlation in Markovian time is negligible. The numerical evaluation of the correlators presented the expected features, up to their variance.
+
+Finally, exploiting the simmetry of the correlators we computed $\DEt$ and $\matb$ for five lattices, paying attention
+to the exponential problem. The statistical analysis, carried out with the jackknife method, gave us results in good agreement with the theory.

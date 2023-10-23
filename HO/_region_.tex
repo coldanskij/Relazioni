@@ -1,0 +1,34 @@
+\message{ !name(intro.tex)}
+\message{ !name(intro.tex) !offset(-2) }
+\section{Introduction}%
+\label{sec:Introduction}
+The harmonic oscillator is likely the simplest physical system that is also worth studying. Despite said simplicity, a deep understanding of the harmonic oscillator is the key to understand complex topics such  as classical mechanics and quantum field theory.
+
+Its numerical resolution is particularly relevant in computational physics, as it provides the blueprint for the study of quantum field theories on the lattice with the path integral formalism.
+
+
+\subsection{One dimensional quantum harmonic oscillator}%
+\label{subsec:1DQHO}
+The hamiltonian of a one dimensional quantum harmonic oscillator of mass $m$ and frequency $\nicefrac{\omega}{2\pi}$ is
+\begin{align}
+  \label{eqn:1}
+  \hat{H}= \frac{\hat{p}^{2}}{2m} + \frac{1}{2}m\omega  ^2 \hat{x}
+\end{align}
+with eigenvalues $E_{n}$, eigenstates $\ket{E_{n}}$ and position operator eigenfunctions $u_{n}(x)$
+\begin{align}
+  \label{eqn:2}
+  &E_{n}=\w \left(n+\frac{1}{2}\right) \\
+  &u_{n}(x) = \braket{\hat{x}}{E_{n}} = \notag \\
+    = \left(\frac{m\w}{\pi}\right)^{\frac{1}{4}}\left(\frac{1}{n}\right)^{\frac{1}{2}}
+              e ^{-\frac{1}{2}m\w x ^2} He_{n}(x \sqrt{2m\w})
+\end{align}
+where $He_{n}(x)$ is the Hermite polynomial of degree $n$.
+
+Exploting the property under parity transformations of Hermite polynomials \footnote{$He_{n}(-x) = - He_{n}(x)$.}
+
+
+
+\subsection{Purpose of the simulation}%
+\label{subsec:purpose}
+
+\message{ !name(intro.tex) !offset(-34) }

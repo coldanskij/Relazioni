@@ -1,0 +1,23 @@
+\section{Numerical setup}%
+\label{sec:numericalsetup}
+We ran three simulations on different lattices of physical volume $L ^{4} \approx (\SI{1.2}{\femto\metre})^{4}$
+and varibale spacing $a$, imposing periodic boundary conditions on the gauge fields;
+the different spacings influence the values of the $\beta$ function and the adimensional reference scale-spacing ratio $\nicefrac{t_{0}}{a^{2}}$ in each run of the simulation. To avoid autocorrelation,
+the data were saved once every $N_{it}$ configurations.
+The parameters are summarized in table \ref{tab:numericalsetup}.
+
+\begin{table}[h!]
+\begin{tabular}{@{}ccccccc@{}}
+\toprule
+     & $\beta$ & $t_0/a^2$  & $L/a$ & $a[\si{\femto\metre}]$ & $N_{conf}$ & $N_{it}$ \\ \midrule
+$B1$ & $5.96$  & $2.7984(9)$  & $12$  & $0.102$      & $1001$     & $20$      \\
+$B2$ & $6.05$  & $3.7960(12)$ & $14$  & $0.087$      & $1040$     & $20$      \\
+$B3$ & $6.13$  & $4.8855(15)$ & $16$  & $0.068$      & $1001$     & $30$      \\ \bottomrule
+\end{tabular}
+\caption{\label{tab:numericalsetup} Simulation parameters. The $\beta$ function depends on the running coupling constant $\nicefrac{6}{g_0^2}$; $N_{conf}$ is the number of configurations we used and $N_{it}$ is how many configurations were discarded to avoid autocorrelation.}
+\end{table}
+In order to recover the continuum results, we used
+\begin{align}
+  t_{0} = \left(0.176(4)\si{\femto\metre}\right)^2.
+\end{align}
+Simulations for lattices $B1$ and $B3$ were run on parallel using every processor available, while for lattice $B2$ we run $14$ different simulations and averaged the results.

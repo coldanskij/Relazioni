@@ -1,0 +1,31 @@
+The hamiltonian of a one dimensional quantum harmonic oscillator of mass $m$ and frequency $\nicefrac{\omega}{2\pi}$ is
+\begin{align}
+  \label{eqn:1}
+  \H= \frac{\hat{p}^{2}}{2m} + \frac{1}{2}m\omega  ^2 \hat{x}^2
+\end{align}
+with the position and momentum operators obeying the canonical commutation relations $\comm{\x}{\p}=i$\footnote{In \textit{natural units} where $\hbar = c = K_{B} = 1$.}
+and its eigenvalues $E_{n}$ and eigenstates $\ket{E_{n}}$ defined by the equation
+\begin{align}
+  \label{eqn:diago}
+  \H \ket{E_{n}} = E_{n}\ket{E_{n}}.
+\end{align}
+It is convenient to introduce the ladder operators $\ad$ and $\a$
+\begin{align}
+  &\ad \equiv \sqrt{\frac{m\w}{2}}\left(\hat{x} - i\frac{\p}{m\w}\right),\\
+  &\a \equiv \sqrt{\frac{m\w}{2}}\left(\x + i \frac{\p}{m\w}\right),\\
+  &\comm{\a}{\ad}=1,\\
+  &\a \ket{E_{n}} = \sqrt{n}\ket{E_{n-1}},\\
+  &\ad  \ket{E_{n}} = \sqrt{n+1}\ket{E_{n+1}}
+\end{align}
+which can be used to rewrite $\H$ and easily find its eigenvalues
+\begin{align}
+  &\H = \w \left(\ad \a + \frac{1}{2}\right), \
+  E_{n} = \w \left(n+\frac{1}{2}\right).
+\end{align}
+Rewriting $\x$ in terms of $\a$ and $\ad$, the computation of matrix elements is also straightforward,
+in particular we will make use of
+\begin{align}
+  &\ev{\hat{x}}{E_{0}}=0,\quad
+  \mel{E_{0}}{\hat{x}}{E_{1}} = \frac{1}{\sqrt{2m\w}}, \notag\\
+  &\ev{\hat{x}^2}{E_{0}}= \frac{1}{2m\w} \label{eqn:mat}.
+\end{align}

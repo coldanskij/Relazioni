@@ -1,0 +1,78 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{Ce}{article}{}
+      \name{author}{4}{}{%
+        {{hash=71b125f5610df4ebed774988841fdaab}{%
+           family={C{è\bibnamedelimb }},
+           familyi={C\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod}}}%
+        {{hash=89d9ce58fcd1d709fb1d719e4e6cb636}{%
+           family={Consonni},
+           familyi={C\bibinitperiod},
+           given={Cristian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=aa0d1f7d12820e1f90d8fee7e38a99b5}{%
+           family={Engel},
+           familyi={E\bibinitperiod},
+           given={Georg\bibnamedelima P.},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=6187a67f1c03805aed7c58bc8c5a2da6}{%
+           family={Giusti},
+           familyi={G\bibinitperiod},
+           given={Leonardo},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{61faabb0cb00e3d1d9be0bb4492f1925}
+      \strng{fullhash}{61faabb0cb00e3d1d9be0bb4492f1925}
+      \strng{bibnamehash}{61faabb0cb00e3d1d9be0bb4492f1925}
+      \strng{authorbibnamehash}{61faabb0cb00e3d1d9be0bb4492f1925}
+      \strng{authornamehash}{61faabb0cb00e3d1d9be0bb4492f1925}
+      \strng{authorfullhash}{61faabb0cb00e3d1d9be0bb4492f1925}
+      \field{labelalpha}{Cè+15}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review D}
+      \field{month}{10}
+      \field{number}{7}
+      \field{title}{Non-Gaussianities in the topological charge distribution of the {SU}(3) Yang-Mills theory}
+      \field{volume}{92}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1103/physrevd.92.074502
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1103%2Fphysrevd.92.074502
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1103%2Fphysrevd.92.074502
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

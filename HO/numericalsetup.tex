@@ -1,0 +1,39 @@
+\section{Numerical simulation}%
+\label{sec:numericalsetup}
+In order to extract the quantum properties of the discretized system (equations \ref{eqn:energy} and \ref{eqn:matelem}) and recover the continuum results (equations \ref{eqn:phys1} and \ref{eqn:phys2}) we have to compute the correlators $\ct$, defined as the $N-$dimensional integral in equation
+\ref{eqn:integral}.
+We proceed numerically, via the importance sampling Monte Carlo method, using the Metropolis
+algorithm to design an ergodic Markov chain with asymptotic probability distribution $\nicefrac{e^{-S}}{Z}$.
+The chain will be used to extract the random variables needed for the integration, which are physically equivalent to considering
+different Feynman paths.
+
+In this section we discuss the Metropolis algorithm and the subsequent Markov chain in greater detail.
+The data shown, unless explicitely specified, have been computed using the following lattice parameters.
+\begin{table}[ht]
+\centering
+\begin{tabularx}{0.6\linewidth}{cccc}
+\hline
+\multicolumn{4}{c}{Parameters} \\ \hline
+$N$              & $256$  & $m$              & $1$      \\
+$a$              & $0.25$ & $\w$             & $1$      \\
+$N_{sweep}$      & $1e6$   & $\Delta$ & $1$ \\ \hline
+\end{tabularx}
+\caption{\label{tab:A3}Parameters used for the analysis shown in the next sections.}
+\end{table}
+\subsection{Monte Carlo method}%
+\label{subsec:montecarlo}
+\input{montecarlo.tex}
+\subsection{Thermalization of the chain}%
+\label{subsec:thermalization}
+\input{thermalization.tex}
+\subsection{Improved observables}%
+\label{subsec:improved}
+\input{improved.tex}
+
+\subsection{Autocorrelation and binning}
+\label{subsec:autocorrelation}
+\input{autocorrelation.tex}
+
+\subsection{The $\Delta$ parameter}%
+\label{subsec:delta}
+\input{delta.tex}

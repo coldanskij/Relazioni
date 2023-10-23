@@ -1,0 +1,1100 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.13)  4 JUL 2023 18:28
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**qho.tex
+(./qho.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+
+./qho.tex:1: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 T
+     he hamiltonian of a one dimensional quantum harmonic oscillator of mass...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no y in font nullfont!
+./qho.tex:1: Undefined control sequence.
+<recently read> \nicefrac 
+                          
+l.1 ...llator of mass $m$ and frequency $\nicefrac
+                                                  {\omega}{2\pi}$ is
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+
+./qho.tex:2: LaTeX Error: Environment align undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{align}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    Trying to load font information for +cmr on input line 4.
+LaTeX Font Info:    No file cmr.fd. on input line 4.
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 4.
+
+./qho.tex:4: Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.4   \H=
+          \frac{\hat{p}^{2}}{2m} + \frac{1}{2}m\omega  ^2 \hat{x}^2
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 4.
+
+./qho.tex:4: Missing $ inserted.
+<inserted text> 
+                $
+l.4   \H= \frac{\hat{p}^{2}}{2m}
+                                 + \frac{1}{2}m\omega  ^2 \hat{x}^2
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./qho.tex:4: Missing $ inserted.
+<inserted text> 
+                $
+l.4   \H= \frac{\hat{p}^{2}}{2m}
+                                 + \frac{1}{2}m\omega  ^2 \hat{x}^2
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./qho.tex:4: Missing $ inserted.
+<inserted text> 
+                $
+l.4   \H= \frac{\hat{p}^{2}}{2m}
+                                 + \frac{1}{2}m\omega  ^2 \hat{x}^2
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./qho.tex:4: Extra }, or forgotten $.
+\frac  #1#2->{\begingroup #1\endgroup \over #2}
+                                               
+l.4   \H= \frac{\hat{p}^{2}}{2m}
+                                 + \frac{1}{2}m\omega  ^2 \hat{x}^2
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+./qho.tex:5: LaTeX Error: \begin{document} ended by \end{align}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \end{align}
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./qho.tex:5: Missing $ inserted.
+<inserted text> 
+                $
+l.5 \end{align}
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./qho.tex:5: Missing } inserted.
+<inserted text> 
+                }
+l.5 \end{align}
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+./qho.tex:6: Undefined control sequence.
+<recently read> \ket 
+                     
+l.6 ...s eigenvalues $E_{n}$ and eigenstates $\ket
+                                                  {E_{n}}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./qho.tex:7: LaTeX Error: Environment align undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \begin{align}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./qho.tex:9: Undefined control sequence.
+<argument> \@use@text@encoding \@curr@enc \ket 
+                                               
+l.9   \H \ket
+             {E_{n}} = E_{n}\ket{E_{n}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:9: Undefined control sequence.
+<argument> \@use@text@encoding \@curr@enc \ket 
+                                               
+l.9   \H \ket
+             {E_{n}} = E_{n}\ket{E_{n}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no E in font nullfont!
+./qho.tex:9: Missing $ inserted.
+<inserted text> 
+                $
+l.9   \H \ket{E_
+                {n}} = E_{n}\ket{E_{n}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./qho.tex:9: Extra }, or forgotten $.
+l.9   \H \ket{E_{n}}
+                     = E_{n}\ket{E_{n}}
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./qho.tex:9: Undefined control sequence.
+l.9   \H \ket{E_{n}} = E_{n}\ket
+                                {E_{n}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./qho.tex:10: LaTeX Error: \begin{document} ended by \end{align}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \end{align}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./qho.tex:10: Missing $ inserted.
+<inserted text> 
+                $
+l.10 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./qho.tex:10: Missing } inserted.
+<inserted text> 
+                }
+l.10 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+./qho.tex:11: Undefined control sequence.
+<recently read> \ad 
+                    
+l.11 ... introduction of the ladder operators $\ad
+                                                  $ and $\a$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+
+LaTeX Warning: Command \$ invalid in math mode on input line 11.
+
+
+./qho.tex:11: LaTeX Error: Command \$ unavailable in encoding .
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...ion of the ladder operators $\ad$ and $\a$
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./qho.tex:12: LaTeX Error: Environment align undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \begin{align}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./qho.tex:13: Misplaced alignment tab character &.
+l.13   &
+        \ad \equiv \sqrt{\frac{m\w}{2}}\left(\hat{x} - i\frac{\p}{m\w}\right...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+./qho.tex:13: Undefined control sequence.
+l.13   &\ad
+            \equiv \sqrt{\frac{m\w}{2}}\left(\hat{x} - i\frac{\p}{m\w}\right...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:13: Undefined control sequence.
+<argument> m\w 
+               
+l.13   &\ad \equiv \sqrt{\frac{m\w}{2}
+                                      }\left(\hat{x} - i\frac{\p}{m\w}\right...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:13: Undefined control sequence.
+<argument> \p 
+              
+l.13 ...ac{m\w}{2}}\left(\hat{x} - i\frac{\p}{m\w}
+                                                  \right),\quad \a \equiv \s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:13: Undefined control sequence.
+<argument> m\w 
+               
+l.13 ...ac{m\w}{2}}\left(\hat{x} - i\frac{\p}{m\w}
+                                                  \right),\quad \a \equiv \s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \\equiv invalid in math mode on input line 13.
+
+
+./qho.tex:13: LaTeX Error: Command \\equiv unavailable in encoding .
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...} - i\frac{\p}{m\w}\right),\quad \a \equiv
+                                                   \sqrt{\frac{m\w}{2}}\left...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./qho.tex:13: Undefined control sequence.
+<argument> m\w 
+               
+l.13 ...right),\quad \a \equiv \sqrt{\frac{m\w}{2}
+                                                  }\left(\x + i \frac{\p}{m\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:13: Undefined control sequence.
+l.13 ...uad \a \equiv \sqrt{\frac{m\w}{2}}\left(\x
+                                                   + i \frac{\p}{m\w}\right)...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:13: Undefined control sequence.
+<argument> \p 
+              
+l.13 ...{\frac{m\w}{2}}\left(\x + i \frac{\p}{m\w}
+                                                  \right),\quad
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:13: Undefined control sequence.
+<argument> m\w 
+               
+l.13 ...{\frac{m\w}{2}}\left(\x + i \frac{\p}{m\w}
+                                                  \right),\quad
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:14: Undefined control sequence.
+l.14   \comm
+            {\a}{\ad}=1\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:14: Argument of \a has an extra }.
+<inserted text> 
+                \par 
+l.14   \comm{\a}
+                {\ad}=1\\
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+./qho.tex:14: Paragraph ended before \a was complete.
+<to be read again> 
+                   \par 
+l.14   \comm{\a}
+                {\ad}=1\\
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./qho.tex:14: Missing $ inserted.
+<inserted text> 
+                $
+l.14   \comm{\a}
+                {\ad}=1\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./qho.tex:14: Missing } inserted.
+<inserted text> 
+                }
+l.14   \comm{\a}
+                {\ad}=1\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./qho.tex:14: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.14   \comm{\a}
+                {\ad}=1\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--14
+[]
+ []
+
+
+Overfull \hbox (8.78014pt too wide) in paragraph at lines 1--14
+\OML/cmm/m/it/10 m$
+ []
+
+
+Overfull \hbox (17.64238pt too wide) in paragraph at lines 1--14
+\OML/cmm/m/it/10 ![]$
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 1--14
+\/cmr/m/n/10 }=
+ []
+
+
+Overfull \hbox (59.6668pt too wide) in paragraph at lines 1--14
+[]$$[]$
+ []
+
+
+Overfull \hbox (12.82527pt too wide) in paragraph at lines 1--14
+\OML/cmm/m/it/10 E[]$
+ []
+
+
+Overfull \hbox (12.82527pt too wide) in paragraph at lines 1--14
+[]$
+ []
+
+
+Overfull \hbox (20.99886pt too wide) in paragraph at lines 1--14
+\/cmr/m/n/10 }$[] =
+ []
+
+
+Overfull \hbox (25.65054pt too wide) in paragraph at lines 1--14
+\OML/cmm/m/it/10 E[][]$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 1--14
+\OMS/cmsy/m/n/10 ^^Q
+ []
+
+
+Overfull \hbox (124.4787pt too wide) in paragraph at lines 1--14
+[] [] \OML/cmm/m/it/10 ;  [] [] ;  []$ 
+ []
+
+./qho.tex:14: Too many }'s.
+<recently read> }
+                 
+l.14   \comm{\a}
+                {\ad}=1\\
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+./qho.tex:14: Undefined control sequence.
+l.14   \comm{\a}{\ad
+                    }=1\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./qho.tex:14: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14   \comm{\a}{\ad}=
+                      1\\
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+./qho.tex:15: Misplaced alignment tab character &.
+<recently read> &
+                 
+l.15   &
+        \a \ket{E_{n}} = \sqrt{n}\ket{E_{n-1}},\quad \ad \ket{E_{n}} \sqrt{n...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+./qho.tex:15: LaTeX Error: Command \\ket unavailable in encoding .
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15   &\a \ket
+               {E_{n}} = \sqrt{n}\ket{E_{n-1}},\quad \ad \ket{E_{n}} \sqrt{n...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no E in font nullfont!
+./qho.tex:15: Missing $ inserted.
+<inserted text> 
+                $
+l.15   &\a \ket{E_
+                  {n}} = \sqrt{n}\ket{E_{n-1}},\quad \ad \ket{E_{n}} \sqrt{n...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./qho.tex:15: Extra }, or forgotten $.
+l.15   &\a \ket{E_{n}}
+                       = \sqrt{n}\ket{E_{n-1}},\quad \ad \ket{E_{n}} \sqrt{n...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./qho.tex:15: Undefined control sequence.
+l.15   &\a \ket{E_{n}} = \sqrt{n}\ket
+                                     {E_{n-1}},\quad \ad \ket{E_{n}} \sqrt{n...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:15: Undefined control sequence.
+l.15 ...t{E_{n}} = \sqrt{n}\ket{E_{n-1}},\quad \ad
+                                                   \ket{E_{n}} \sqrt{n+1}\ke...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:15: Undefined control sequence.
+l.15 ...n}} = \sqrt{n}\ket{E_{n-1}},\quad \ad \ket
+                                                  {E_{n}} \sqrt{n+1}\ket{E_{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:15: Undefined control sequence.
+l.15 ...n-1}},\quad \ad \ket{E_{n}} \sqrt{n+1}\ket
+                                                  {E_{n+1}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./qho.tex:16: LaTeX Error: \begin{document} ended by \end{align}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \end{align}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./qho.tex:16: Missing $ inserted.
+<inserted text> 
+                $
+l.16 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./qho.tex:16: Missing } inserted.
+<inserted text> 
+                }
+l.16 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./qho.tex:16: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.16 \end{align}
+                
+Things are pretty mixed up, but I think the worst is over.
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+
+LaTeX Warning: Command \H invalid in math mode on input line 17.
+
+
+LaTeX Warning: Command \H invalid in math mode on input line 17.
+
+./qho.tex:17: Improper \spacefactor.
+<recently read> \spacefactor 
+                             
+l.17 we can rewrite $\H$
+                        
+You can refer to \spacefactor only in horizontal mode;
+you can refer to \prevdepth only in vertical mode; and
+neither of these is meaningful inside \write. So
+I'm forgetting what you said and using zero instead.
+
+./qho.tex:17: Extra }, or forgotten $.
+\add@accent ... \accent@spacefactor \spacefactor }
+                                                  \let \maybe@load@fontshape...
+l.17 we can rewrite $\H$
+                        
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./qho.tex:17: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.17 we can rewrite $\H$
+                        
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+./qho.tex:17: Missing { inserted.
+<to be read again> 
+                   \edef 
+l.17 we can rewrite $\H$
+                        
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+./qho.tex:17: Missing } inserted.
+<inserted text> 
+                }
+l.17 we can rewrite $\H$
+                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+./qho.tex:18: LaTeX Error: Environment align undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 \begin{align}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Command \H invalid in math mode on input line 19.
+
+./qho.tex:19: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.19   \H =
+            \w \left(\ad \a + \frac{1}{2}\right)
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+./qho.tex:19: Undefined control sequence.
+l.19   \H = \w
+               \left(\ad \a + \frac{1}{2}\right)
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:19: Undefined control sequence.
+l.19   \H = \w \left(\ad
+                         \a + \frac{1}{2}\right)
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \+ invalid in math mode on input line 19.
+
+
+./qho.tex:19: LaTeX Error: Command \+ unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19   \H = \w \left(\ad \a +
+                              \frac{1}{2}\right)
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./qho.tex:20: LaTeX Error: \begin{document} ended by \end{align}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \end{align}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./qho.tex:21: Undefined control sequence.
+<write> ...arning: Reference `(' on page \thepage 
+                                                  \space undefined\on@line .
+l.21 so that its diagonalization \ref(
+                                      eqn:diago) becomes straightforward
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `(' on page  undefined on input line 21.
+
+
+./qho.tex:22: LaTeX Error: Environment align undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \begin{align}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./qho.tex:23: Undefined control sequence.
+l.23   E_{n} = \w
+                  \left(n+\frac{1}{2}\right).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./qho.tex:24: LaTeX Error: \begin{document} ended by \end{align}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \end{align}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+./qho.tex:26: LaTeX Error: Environment align undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \begin{align}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./qho.tex:27: Undefined control sequence.
+l.27   \ev
+          {\hat{x}}{E_{0}}=0,\quad
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:28: Undefined control sequence.
+l.28   \mel
+           {E_{0}}{\hat{x}}{E_{1}} = \frac{1}{\sqrt{2m\w}}, \quad
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:28: Undefined control sequence.
+<argument> \sqrt {2m\w 
+                       }
+l.28 ...}}{\hat{x}}{E_{1}} = \frac{1}{\sqrt{2m\w}}
+                                                  , \quad
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:29: Undefined control sequence.
+l.29   \ev
+          {\hat{x}^2}{E_{0}}= \frac{1}{2m\w}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./qho.tex:29: Undefined control sequence.
+<argument> 2m\w 
+                
+l.29   \ev{\hat{x}^2}{E_{0}}= \frac{1}{2m\w}
+                                            .
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./qho.tex:30: LaTeX Error: \begin{document} ended by \end{align}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 \end{align}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> qho.tex
+           
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 45 strings out of 476025
+ 549 string characters out of 5790017
+ 1851388 words of memory out of 5000000
+ 20596 multiletter control sequences out of 15000+600000
+ 512595 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,6n,32p,168b,144s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

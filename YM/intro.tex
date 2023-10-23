@@ -1,0 +1,34 @@
+\section{Introduction}%
+\label{sec:intro}
+
+The classical QCD action, in the massless fermions limit, has an accidental global symmetry
+called chiral simmetry. The $U(1)_{L}\cp U(1)_{R}$ subgroup is broken to $U(1)_{B}$\footnote{$L$ and $R$ stand for left and right, $B$ stands for baryonic.} as a consequence of its quantization via the path integral.
+This is called the \textit{chiral anomaly}: it happens because the integration measure is not invariant
+under the action of the axial group $U(1)_{A}$ and, ultimately, it is the reason for the unexpectedly large mass of the
+$\eta'$ meson $m_{\eta'}=\SI{0.958}{GeV}$, which is $0$ in the classical theory.
+
+The Witten-Veneziano formula aims at providing an explaination for the mass of the
+$\eta' $ meson by connecting it to non trivial topological fluctuations of the guage fields, encoded by the topological susceptibility $\chi$ in pure Yang-Mills theories. The formula takes its simplest
+form in the chiral limit
+\begin{align}
+  \label{eqn:chiralm}m_{\eta' }^{chiral} = \sqrt{\frac{2N_{f}\chi}{F_{\eta'}^2}}
+\end{align}
+where $N_{f}$ is the flavor number and $F_{\eta'}$ is the leptonic decay constant of the $\eta'$.
+The chiral contribution proves to be the dominant one even in the non chiral limit
+\begin{align}
+  \label{eqn:nonchiralmass}m_{\eta'}= \sqrt{\frac{2N_{f}\chi}{F_{\eta'}^2} +2m_{K}^2-m_{\eta}^2}
+\end{align}
+where $m_{K}$ and $m_{\eta}$ are the masses of the $K ^{0}$ and $\eta$ mesons.
+
+The nature of topological susceptibility lies in the fact that in $SU$ invariant theories the allowed
+field configurations form disjoint clusters characterized by the topological charge $Q$, which takes integer values and is
+non zero on average\footnote{This is the reason behind the integration measure not being $U(1)_{A}$ invariant.}.
+The topological susceptibility $\chi$ is the variance of $Q$.
+
+Moreover, since $\chi = 0$ both in the classical theory and in perturbative quantization,
+measurements of $m_{\eta'}$ are a strong confirmation of non perturbative QCD quantization.
+
+This work is heavily based on \cite{Ce}, both for the theoretical formulation and for the computational implementation.
+We will consider Wilson discretization to define lattice QCD and, through the Wilson flow definition of the topological charge,
+we will compute the leading contribution to the topological susceptibility as the continuum limit of the values obtained
+on three different lattices; then we will use it to compute the $\eta'$ mass.

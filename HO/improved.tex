@@ -1,0 +1,36 @@
+The integrals we are interested in are of the form
+\begin{align}
+  \label{eqn:form}
+  \ev{O(x_{l})O(x_{k})} = \frac{1}{Z(T,a)}\int \prod_{i=0}^{N-1}\dd{x_{i}}e^{-S}O(x_{l})O({x_{k}}),
+\end{align}
+whose best estimate is
+\begin{align}
+  \label{eqn:Omean}
+  \overline{O(x_{l})O(x_{k})} = \frac{1}{N_{config}}\sum_{n=1}^{N_{config}}O(x_{l})_{n}O(x_{k})_{n}
+\end{align}
+in the limit of large $N_{config}$. Clearly, the value of the integral is
+\begin{align}
+   \ev{O(x_{l})O(x_{k})} = \lim_{N_{config}\to\infty}  \overline{O(x_{l})O(x_{k})}.
+\end{align}
+
+Furthermore, we can exploit the path integral's translational invariance to define improved observables with
+smaller error. For each configuration we define
+\begin{align}
+  \label{eqn:Oimproved}
+  O(\t)_{n} = \frac{1}{N}\sum_{i=0}^{N-1}O(x_{l+i})_{n}O(x_{k+i})_{n}
+\end{align}
+so that we identify $\overline{O(\t)}=\overline{O(x_{l})O(x_{k})}$ and find an improved version of the
+observable \ref{eqn:Omean} as
+\begin{align}
+  \overline{O(\t)} = \frac{1}{N_{config}}\sum_{n=1}^{N_{config}}O(\t)_{n}.
+\end{align}
+
+Thus, the best estimate of the integral \ref{eqn:integral} is
+\begin{align}
+  \overline{\ct} = \ev{x_{l}x_{k}} = \frac{1}{N_{sweep}}\sum_{n=1}^{Nsweep}\ct_{n},
+\end{align}
+where the improved observables are, at fixed physical time $\t$ and for each Feynman path,
+\begin{align}
+  \ct_{n} = \frac{1}{N}\sum_{i=0}^{N-1}\qty[x_{i}x_{i+\t}]_{n}
+\end{align}
+and $n$ labels a thermalized sweep of the Markov chain.

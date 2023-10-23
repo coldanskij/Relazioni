@@ -1,0 +1,1651 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.13)  5 JUL 2023 21:08
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**autocorrelation.tex
+(./autocorrelation.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+
+./autocorrelation.tex:1: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 T
+     hey key quantities needed to extract the physical observables are the
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+./autocorrelation.tex:2: Undefined control sequence.
+<recently read> \x 
+                   
+l.2 ...the two points correlation functions of $\x
+                                                  $ at a given physical time...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+
+LaTeX Warning: Command \t invalid in math mode on input line 2.
+
+
+LaTeX Warning: Command \t invalid in math mode on input line 2.
+
+LaTeX Font Info:    Trying to load font information for +cmr on input line 2.
+LaTeX Font Info:    No file cmr.fd. on input line 2.
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 2.
+
+./autocorrelation.tex:2: Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.2 ...tions of $\x$ at a given physical time $\t$
+                                                  , whose best
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 2.
+
+./autocorrelation.tex:2: Improper \spacefactor.
+<recently read> \spacefactor 
+                             
+l.2 ...tions of $\x$ at a given physical time $\t$
+                                                  , whose best
+You can refer to \spacefactor only in horizontal mode;
+you can refer to \prevdepth only in vertical mode; and
+neither of these is meaningful inside \write. So
+I'm forgetting what you said and using zero instead.
+
+./autocorrelation.tex:2: Extra }, or forgotten $.
+\add@accent ... \accent@spacefactor \spacefactor }
+                                                  \let \maybe@load@fontshape...
+l.2 ...tions of $\x$ at a given physical time $\t$
+                                                  , whose best
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./autocorrelation.tex:2: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.2 ...tions of $\x$ at a given physical time $\t$
+                                                  , whose best
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+./autocorrelation.tex:2: Missing { inserted.
+<to be read again> 
+                   \edef 
+l.2 ...tions of $\x$ at a given physical time $\t$
+                                                  , whose best
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+./autocorrelation.tex:2: Missing } inserted.
+<inserted text> 
+                }
+l.2 ...tions of $\x$ at a given physical time $\t$
+                                                  , whose best
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+./autocorrelation.tex:4: LaTeX Error: Environment align undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{align}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./autocorrelation.tex:5: Undefined control sequence.
+l.5   \overline \ct
+                    = \frac{1}{N_{sweep}}\sum_{n>N_{therm}}\qty[\sum_{i=0}^{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./autocorrelation.tex:5: Undefined control sequence.
+l.5 ...= \frac{1}{N_{sweep}}\sum_{n>N_{therm}}\qty
+                                                  [\sum_{i=0}^{N-1}\frac{x_{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \t invalid in math mode on input line 5.
+
+./autocorrelation.tex:5: Argument of \add@accent has an extra }.
+<inserted text> 
+                \par 
+l.5 ...qty[\sum_{i=0}^{N-1}\frac{x_{i}x_{i+\t}}{N}
+                                                  ]_{n}.
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+./autocorrelation.tex:5: Paragraph ended before \add@accent was complete.
+<to be read again> 
+                   \par 
+l.5 ...qty[\sum_{i=0}^{N-1}\frac{x_{i}x_{i+\t}}{N}
+                                                  ]_{n}.
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./autocorrelation.tex:5: Missing $ inserted.
+<inserted text> 
+                $
+l.5 ...qty[\sum_{i=0}^{N-1}\frac{x_{i}x_{i+\t}}{N}
+                                                  ]_{n}.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./autocorrelation.tex:5: Missing } inserted.
+<inserted text> 
+                }
+l.5 ...qty[\sum_{i=0}^{N-1}\frac{x_{i}x_{i+\t}}{N}
+                                                  ]_{n}.
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./autocorrelation.tex:5: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.5 ...qty[\sum_{i=0}^{N-1}\frac{x_{i}x_{i+\t}}{N}
+                                                  ]_{n}.
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./autocorrelation.tex:5: Missing } inserted.
+<inserted text> 
+                }
+l.5 ...qty[\sum_{i=0}^{N-1}\frac{x_{i}x_{i+\t}}{N}
+                                                  ]_{n}.
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./autocorrelation.tex:5: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.5 ...qty[\sum_{i=0}^{N-1}\frac{x_{i}x_{i+\t}}{N}
+                                                  ]_{n}.
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./autocorrelation.tex:5: Missing } inserted.
+<inserted text> 
+                }
+l.5 ...qty[\sum_{i=0}^{N-1}\frac{x_{i}x_{i+\t}}{N}
+                                                  ]_{n}.
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--5
+[]
+ []
+
+
+Overfull \hbox (292.95207pt too wide) in paragraph at lines 1--5
+[]$ 
+ []
+
+./autocorrelation.tex:5: Too many }'s.
+<recently read> }
+                 
+l.5 ...qty[\sum_{i=0}^{N-1}\frac{x_{i}x_{i+\t}}{N}
+                                                  ]_{n}.
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+./autocorrelation.tex:5: Extra \endgroup.
+\frac  #1#2->{\begingroup #1\endgroup 
+                                      \over #2}
+l.5 ...qty[\sum_{i=0}^{N-1}\frac{x_{i}x_{i+\t}}{N}
+                                                  ]_{n}.
+Things are pretty mixed up, but I think the worst is over.
+
+./autocorrelation.tex:5: Missing $ inserted.
+<inserted text> 
+                $
+l.5 ...qty[\sum_{i=0}^{N-1}\frac{x_{i}x_{i+\t}}{N}
+                                                  ]_{n}.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+./autocorrelation.tex:5: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...qty[\sum_{i=0}^{N-1}\frac{x_{i}x_{i+\t}}{N}
+                                                  ]_{n}.
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./autocorrelation.tex:5: Extra }, or forgotten $.
+\frac  #1#2->{\begingroup #1\endgroup \over #2}
+                                               
+l.5 ...qty[\sum_{i=0}^{N-1}\frac{x_{i}x_{i+\t}}{N}
+                                                  ]_{n}.
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+./autocorrelation.tex:6: LaTeX Error: \begin{document} ended by \end{align}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 \end{align}
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./autocorrelation.tex:6: Missing $ inserted.
+<inserted text> 
+                $
+l.6 \end{align}
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./autocorrelation.tex:6: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.6 \end{align}
+               
+Things are pretty mixed up, but I think the worst is over.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+./autocorrelation.tex:7: Undefined control sequence.
+<recently read> \ct 
+                    
+l.7 ...d with a problem: the best estimate of $\ct
+                                                  $ is an average over the n...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+
+LaTeX Warning: Command \t invalid in math mode on input line 9.
+
+
+LaTeX Warning: Command \t invalid in math mode on input line 9.
+
+./autocorrelation.tex:9: Improper \spacefactor.
+<recently read> \spacefactor 
+                             
+l.9 sweeps are not independent, at fixed $\t$
+                                             , and the observables $\overlin...
+You can refer to \spacefactor only in horizontal mode;
+you can refer to \prevdepth only in vertical mode; and
+neither of these is meaningful inside \write. So
+I'm forgetting what you said and using zero instead.
+
+./autocorrelation.tex:9: Extra }, or forgotten $.
+\add@accent ... \accent@spacefactor \spacefactor }
+                                                  \let \maybe@load@fontshape...
+l.9 sweeps are not independent, at fixed $\t$
+                                             , and the observables $\overlin...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./autocorrelation.tex:9: Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.9 sweeps are not independent, at fixed $\t$
+                                             , and the observables $\overlin...
+I'm changing \accent to \mathaccent here; wish me luck.
+(Accents are not the same in formulas as they are in text.)
+
+./autocorrelation.tex:9: Missing { inserted.
+<to be read again> 
+                   \edef 
+l.9 sweeps are not independent, at fixed $\t$
+                                             , and the observables $\overlin...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+./autocorrelation.tex:9: Missing } inserted.
+<inserted text> 
+                }
+l.9 sweeps are not independent, at fixed $\t$
+                                             , and the observables $\overlin...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./autocorrelation.tex:9: Missing } inserted.
+<inserted text> 
+                }
+l.9 ...ndent, at fixed $\t$, and the observables $
+                                                  \overline{\ct}$ are correl...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./autocorrelation.tex:9: Missing $ inserted.
+<inserted text> 
+                $
+l.9 ... fixed $\t$, and the observables $\overline
+                                                  {\ct}$ are correlated.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./autocorrelation.tex:9: Undefined control sequence.
+l.9 ...ed $\t$, and the observables $\overline{\ct
+                                                  }$ are correlated.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+
+./autocorrelation.tex:12: LaTeX Error: Environment align undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \begin{align}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./autocorrelation.tex:13: Missing $ inserted.
+<inserted text> 
+                $
+l.13 \sigma
+            ^2\qty[\overline\ct] = \frac{\sigma ^2\qty[\ct]}{N_{sweep}}\qty{...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./autocorrelation.tex:13: Undefined control sequence.
+l.13 \sigma ^2\qty
+                  [\overline\ct] = \frac{\sigma ^2\qty[\ct]}{N_{sweep}}\qty{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./autocorrelation.tex:13: Undefined control sequence.
+l.13 \sigma ^2\qty[\overline\ct
+                               ] = \frac{\sigma ^2\qty[\ct]}{N_{sweep}}\qty{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./autocorrelation.tex:13: Undefined control sequence.
+<argument> \sigma ^2\qty 
+                         [\ct ]
+l.13 ...ct] = \frac{\sigma ^2\qty[\ct]}{N_{sweep}}
+                                                  \qty{1 + 2\sum_{n=1}^{\inf...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./autocorrelation.tex:13: Undefined control sequence.
+<argument> \sigma ^2\qty [\ct 
+                              ]
+l.13 ...ct] = \frac{\sigma ^2\qty[\ct]}{N_{sweep}}
+                                                  \qty{1 + 2\sum_{n=1}^{\inf...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./autocorrelation.tex:13: Undefined control sequence.
+l.13 ...= \frac{\sigma ^2\qty[\ct]}{N_{sweep}}\qty
+                                                  {1 + 2\sum_{n=1}^{\infty}\...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \t invalid in math mode on input line 13.
+
+./autocorrelation.tex:13: Argument of \UseTextAccent  has an extra }.
+<inserted text> 
+                \par 
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+./autocorrelation.tex:13: Paragraph ended before \UseTextAccent  was complete.
+<to be read again> 
+                   \par 
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./autocorrelation.tex:13: Missing $ inserted.
+<inserted text> 
+                $
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./autocorrelation.tex:13: Missing } inserted.
+<inserted text> 
+                }
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./autocorrelation.tex:13: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./autocorrelation.tex:13: Missing } inserted.
+<inserted text> 
+                }
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./autocorrelation.tex:13: Missing } inserted.
+<inserted text> 
+                }
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (39.02762pt too wide) in paragraph at lines 5--13
+[]$[]$
+ []
+
+
+Overfull \hbox (18.18321pt too wide) in paragraph at lines 5--13
+\OT1/cmr/m/it/10 next
+ []
+
+
+Overfull \hbox (16.9943pt too wide) in paragraph at lines 5--13
+\OT1/cmr/m/it/10 pre-
+ []
+
+
+Overfull \hbox (11.24435pt too wide) in paragraph at lines 5--13
+\OT1/cmr/m/it/10 vi-
+ []
+
+
+Overfull \hbox (14.56659pt too wide) in paragraph at lines 5--13
+\OT1/cmr/m/it/10 ous
+ []
+
+
+Overfull \hbox (85.54639pt too wide) in paragraph at lines 5--13
+[]$$[]$
+ []
+
+
+Overfull \hbox (42.77074pt too wide) in paragraph at lines 5--13
+\OML/cmm/m/it/10 N[] \OMS/cmsy/m/n/10 !
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 5--13
+\OMS/cmsy/m/n/10 1$
+ []
+
+
+Overfull \hbox (26.67012pt too wide) in paragraph at lines 5--13
+\OML/cmm/m/it/10 ^^[[]\/cmr/m/n/10 [[] =
+ []
+
+
+Overfull \hbox (86.66237pt too wide) in paragraph at lines 5--13
+[][]$ 
+ []
+
+./autocorrelation.tex:13: Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+./autocorrelation.tex:13: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ) in font nullfont!
+./autocorrelation.tex:13: Missing $ inserted.
+<inserted text> 
+                $
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \t invalid in math mode on input line 13.
+
+./autocorrelation.tex:13: Argument of \UseTextAccent  has an extra }.
+<inserted text> 
+                \par 
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+./autocorrelation.tex:13: Paragraph ended before \UseTextAccent  was complete.
+<to be read again> 
+                   \par 
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./autocorrelation.tex:13: Missing $ inserted.
+<inserted text> 
+                $
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./autocorrelation.tex:13: Missing } inserted.
+<inserted text> 
+                }
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (27.84445pt too wide) in paragraph at lines 13--13
+[]$[]$ 
+ []
+
+./autocorrelation.tex:13: Too many }'s.
+<recently read> }
+                 
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+./autocorrelation.tex:13: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ) in font nullfont!
+./autocorrelation.tex:13: Too many }'s.
+\frac  #1#2->{\begingroup #1\endgroup \over #2}
+                                               
+l.13 ...nfty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  }
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+./autocorrelation.tex:13: Too many }'s.
+l.13 ...fty}\frac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+./autocorrelation.tex:14: LaTeX Error: \begin{document} ended by \end{align}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \end{align}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./autocorrelation.tex:14: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.14 \end{align}
+                
+Things are pretty mixed up, but I think the worst is over.
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+
+LaTeX Warning: Command \t invalid in math mode on input line 15.
+
+./autocorrelation.tex:15: Argument of \UseTextAccent  has an extra }.
+<inserted text> 
+                \par 
+l.15 where $\Gamma_{\t}
+                       (n) \equiv \ev{\ct_{i} \ct_{i+n}}_{sweep\  i}-\overli...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+./autocorrelation.tex:15: Paragraph ended before \UseTextAccent  was complete.
+<to be read again> 
+                   \par 
+l.15 where $\Gamma_{\t}
+                       (n) \equiv \ev{\ct_{i} \ct_{i+n}}_{sweep\  i}-\overli...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./autocorrelation.tex:15: Missing $ inserted.
+<inserted text> 
+                $
+l.15 where $\Gamma_{\t}
+                       (n) \equiv \ev{\ct_{i} \ct_{i+n}}_{sweep\  i}-\overli...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./autocorrelation.tex:15: Missing } inserted.
+<inserted text> 
+                }
+l.15 where $\Gamma_{\t}
+                       (n) \equiv \ev{\ct_{i} \ct_{i+n}}_{sweep\  i}-\overli...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 13--15
+[]
+ []
+
+
+Overfull \hbox (6.75002pt too wide) in paragraph at lines 13--15
+\/cmr/m/n/10 ^^@[]$ 
+ []
+
+./autocorrelation.tex:15: Too many }'s.
+<recently read> }
+                 
+l.15 where $\Gamma_{\t}
+                       (n) \equiv \ev{\ct_{i} \ct_{i+n}}_{sweep\  i}-\overli...
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+./autocorrelation.tex:15: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 where $\Gamma_{\t}(
+                        n) \equiv \ev{\ct_{i} \ct_{i+n}}_{sweep\  i}-\overli...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ) in font nullfont!
+./autocorrelation.tex:15: Missing $ inserted.
+<inserted text> 
+                $
+l.15 where $\Gamma_{\t}(n) \equiv
+                                  \ev{\ct_{i} \ct_{i+n}}_{sweep\  i}-\overli...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./autocorrelation.tex:15: Undefined control sequence.
+l.15 where $\Gamma_{\t}(n) \equiv \ev
+                                     {\ct_{i} \ct_{i+n}}_{sweep\  i}-\overli...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./autocorrelation.tex:15: Undefined control sequence.
+l.15 where $\Gamma_{\t}(n) \equiv \ev{\ct
+                                         _{i} \ct_{i+n}}_{sweep\  i}-\overli...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./autocorrelation.tex:15: Undefined control sequence.
+l.15 where $\Gamma_{\t}(n) \equiv \ev{\ct_{i} \ct
+                                                 _{i+n}}_{sweep\  i}-\overli...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./autocorrelation.tex:15: Double subscript.
+l.15 where $\Gamma_{\t}(n) \equiv \ev{\ct_{i} \ct_
+                                                  {i+n}}_{sweep\  i}-\overli...
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+./autocorrelation.tex:15: Undefined control sequence.
+l.15 ...t_{i} \ct_{i+n}}_{sweep\  i}-\overline{\ct
+                                                  }^2$ is the autocorrelatio...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+./autocorrelation.tex:16: Undefined control sequence.
+<recently read> \nicefrac 
+                          
+l.16 The ratio $\nicefrac
+                         {\Gamma_{\t}(n)}{\Gamma_{\t}(0)}$ is a measure of t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Command \t invalid in math mode on input line 16.
+
+./autocorrelation.tex:16: Argument of \UseTextAccent  has an extra }.
+<inserted text> 
+                \par 
+l.16 The ratio $\nicefrac{\Gamma_{\t}
+                                     (n)}{\Gamma_{\t}(0)}$ is a measure of t...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+./autocorrelation.tex:16: Paragraph ended before \UseTextAccent  was complete.
+<to be read again> 
+                   \par 
+l.16 The ratio $\nicefrac{\Gamma_{\t}
+                                     (n)}{\Gamma_{\t}(0)}$ is a measure of t...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./autocorrelation.tex:16: Missing $ inserted.
+<inserted text> 
+                $
+l.16 The ratio $\nicefrac{\Gamma_{\t}
+                                     (n)}{\Gamma_{\t}(0)}$ is a measure of t...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./autocorrelation.tex:16: Missing } inserted.
+<inserted text> 
+                }
+l.16 The ratio $\nicefrac{\Gamma_{\t}
+                                     (n)}{\Gamma_{\t}(0)}$ is a measure of t...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./autocorrelation.tex:16: Missing } inserted.
+<inserted text> 
+                }
+l.16 The ratio $\nicefrac{\Gamma_{\t}
+                                     (n)}{\Gamma_{\t}(0)}$ is a measure of t...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 15--16
+[]
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 15--16
+\OMS/cmsy/m/n/10 ^^Q
+ []
+
+
+Overfull \hbox (50.3062pt too wide) in paragraph at lines 15--16
+[][] \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (4.48613pt too wide) in paragraph at lines 15--16
+[][]$
+ []
+
+
+Overfull \hbox (6.00235pt too wide) in paragraph at lines 15--16
+\OML/cmm/m/it/10 n$
+ []
+
+
+Overfull \hbox (6.75002pt too wide) in paragraph at lines 15--16
+[]$ 
+ []
+
+./autocorrelation.tex:16: Too many }'s.
+<recently read> }
+                 
+l.16 The ratio $\nicefrac{\Gamma_{\t}
+                                     (n)}{\Gamma_{\t}(0)}$ is a measure of t...
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+./autocorrelation.tex:16: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 The ratio $\nicefrac{\Gamma_{\t}(
+                                      n)}{\Gamma_{\t}(0)}$ is a measure of t...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ) in font nullfont!
+./autocorrelation.tex:16: Too many }'s.
+l.16 The ratio $\nicefrac{\Gamma_{\t}(n)}
+                                         {\Gamma_{\t}(0)}$ is a measure of t...
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+./autocorrelation.tex:16: Missing $ inserted.
+<inserted text> 
+                $
+l.16 The ratio $\nicefrac{\Gamma_{\t}(n)}{\Gamma
+                                                _{\t}(0)}$ is a measure of t...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \t invalid in math mode on input line 16.
+
+./autocorrelation.tex:16: Argument of \UseTextAccent  has an extra }.
+<inserted text> 
+                \par 
+l.16 ...tio $\nicefrac{\Gamma_{\t}(n)}{\Gamma_{\t}
+                                                  (0)}$ is a measure of the ...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+./autocorrelation.tex:16: Paragraph ended before \UseTextAccent  was complete.
+<to be read again> 
+                   \par 
+l.16 ...tio $\nicefrac{\Gamma_{\t}(n)}{\Gamma_{\t}
+                                                  (0)}$ is a measure of the ...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./autocorrelation.tex:16: Missing $ inserted.
+<inserted text> 
+                $
+l.16 ...tio $\nicefrac{\Gamma_{\t}(n)}{\Gamma_{\t}
+                                                  (0)}$ is a measure of the ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./autocorrelation.tex:16: Missing } inserted.
+<inserted text> 
+                }
+l.16 ...tio $\nicefrac{\Gamma_{\t}(n)}{\Gamma_{\t}
+                                                  (0)}$ is a measure of the ...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (26.75002pt too wide) in paragraph at lines 16--16
+[]$\/cmr/m/n/10 ^^@[]$ 
+ []
+
+
+./autocorrelation.tex:16: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...io $\nicefrac{\Gamma_{\t}(n)}{\Gamma_{\t}(
+                                                  0)}$ is a measure of the c...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ( in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ) in font nullfont!
+./autocorrelation.tex:16: Too many }'s.
+l.16 ...$\nicefrac{\Gamma_{\t}(n)}{\Gamma_{\t}(0)}
+                                                  $ is a measure of the corr...
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+./autocorrelation.tex:16: Undefined control sequence.
+l.16 ...e correlation between two observables $\ct
+                                                  $ computed
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no n in font nullfont!
+)
+! Emergency stop.
+<*> autocorrelation.tex
+                       
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 36 strings out of 476025
+ 567 string characters out of 5790017
+ 1851388 words of memory out of 5000000
+ 20586 multiletter control sequences out of 15000+600000
+ 512968 words of font info for 34 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,6n,32p,222b,111s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

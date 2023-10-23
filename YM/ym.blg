@@ -1,0 +1,17 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'ym.blg'
+[108] biber:340> INFO - === lun ott  2, 2023, 08:30:09
+[128] Biber.pm:418> INFO - Reading 'ym.bcf'
+[212] Biber.pm:978> INFO - Found 1 citekeys in bib section 0
+[230] Biber.pm:4401> INFO - Processing section 0
+[245] Biber.pm:4592> INFO - Looking for bibtex file 'biblio.bib' for section 0
+[246] bibtex.pm:1713> INFO - LaTeX decoding ...
+[249] bibtex.pm:1518> INFO - Found BibTeX data source 'biblio.bib'
+[305] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[305] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[305] Biber.pm:4221> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
+[305] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[314] bbl.pm:654> INFO - Writing 'ym.bbl' with encoding 'UTF-8'
+[315] bbl.pm:757> INFO - Output to ym.bbl
+[316] Biber.pm:130> WARN - legacy month field 'oct' in entry 'Ce' is not an integer - this will probably not sort properly.
+[316] Biber.pm:132> INFO - WARNINGS: 1

@@ -1,0 +1,15 @@
+# Fdb version 4
+["pdflatex"] 1688584126 "autocorrelation.tex" "autocorrelation.pdf" "autocorrelation" 1688584127 2
+  "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1686662158 7883456 6e04eb49e7cd0344b9753da6cf49e749 ""
+  "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
+  "autocorrelation.aux" 1688584126 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "autocorrelation.tex" 1688584125 1312 2f7076da8f77dc72d40e4e53d10acc0a ""
+  (generated)
+  "autocorrelation.aux"
+  "autocorrelation.log"
+  "autocorrelation.pdf"
+  (rewritten before read)
